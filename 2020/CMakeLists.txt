@@ -4,7 +4,7 @@ project(gravity LANGUAGES CXX)
 
 # Various sets
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
-set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD 20)
 
 add_executable(01 01.cpp)
 add_executable(02 02.cpp)
@@ -26,3 +26,8 @@ add_executable(17 17.cpp)
 add_executable(18 18.cpp)
 add_executable(19 19.cpp)
 add_executable(20 20.cpp)
+add_executable(21 21.cpp)
+add_executable(22 22.cpp)
+add_executable(23 23.cpp)
+add_executable(24 24.cpp)
+add_executable(25 25.cpp)
